@@ -7,6 +7,6 @@ The first challenge that I met was the positioning of the container with QR code
 that I created in the centre of a viewport, in a way it will not change the position regardless of the viewport size.
 I tried a number of methods,like using the "display flex" and "display grid" , but none of these methods worked well
 for me. Things got better when I resorted to "position" property and "transform:translate" function.
-"Media quiery" helped me to adopt the QR code container for small (<375px) screen.
+"Media quiery" helped me to adopt the QR code container for a small (<375px) screen.
 The site "https://builtin.com/articles/center-div-horizontally-and-vertically#:~:text=Centering%20a%20div%20horizontally%20and,cell%2C%20and%20line%2Dheight" 
-helped me a lot with centralization of the content.
+helped me a lot with centering of the content.
